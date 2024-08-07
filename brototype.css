@@ -1,0 +1,205 @@
+.main{
+width: 100%;
+height: 2400px;
+
+}
+.head-hire{
+    width: 100%;
+    height: 20px;
+    background: red;
+    padding-top: 3px;
+    text-align: center;
+    font-weight: bold;
+}
+.head-line{
+    text-decoration:none;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    color: white;
+}
+.main-body{
+    width: 100%;
+    height: auto;
+    background: rgb(0, 0, 0);
+   
+}
+.sec-line{
+  
+    width: 100%;
+    height: 50px;
+   
+
+}
+.logo{
+    width: 60%;
+    height: 50px;
+   
+    float: left;
+}
+.sec-40{
+    height: 50px;
+    width: 40%;
+   
+    float: left;
+}
+.select-lang{
+    width: 50%;
+    height: 50px;
+    border-color: black;
+    float: left;
+    
+
+}
+.lang-op{
+   margin-left: 65% ;
+   margin-top: 18px;
+   color: rgb(255, 255, 255);
+   font-weight: bold;
+   background: black;
+  
+   border-radius: 50px;
+   height: 30px;
+   font-size: medium;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+.ab-bro{
+    
+    width: 50%;
+    height: 50px;
+    float: left;
+    
+}
+.about{
+    margin: 10px;
+    height: 30px;
+    width: 200px;
+    border-radius: 50px;
+    background: rgb(255, 0, 0);
+    
+}
+.img-nikhil{
+    width: 60%;
+
+
+}
+.full-body{
+    width: 100%;
+    height: 1200px;
+   
+}
+.body-fh{
+    width: 50%;
+    height: 500px;
+    background: rgb(0, 0, 0);
+   
+    float: left;
+}
+.body-sh{
+    width: 50%;
+    height: 1200px;
+   
+    float: left;
+}
+.background{
+    height:25px;
+    width: 250px;
+    background: rgb(57, 57, 57);
+    opacity: 70%;
+    padding: 10px;
+    border-radius: 50px;
+    float: left;
+   margin: 30px;
+   color: #fff;
+   margin-left:30px;
+   padding: 20px;
+   text-align: center;
+
+}
+.cenetr-box{
+    height:50px;
+    width: 350px;
+    background: rgb(242, 0, 0);
+   padding-top: 15px;
+    
+    border-radius: 50px;
+    float: left;
+   color: #fff;
+   margin-left:180px;
+   text-align: center;
+
+
+}
+.para{
+    width: 100%;
+    height: 200px;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    float: left;
+   padding-top: 300px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.sucsess{
+    height: 350px;
+    width: 90%;
+    margin: 0;
+    background: #fff;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    padding-top: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background: rgb(255, 255, 255);
+}
+.video{
+    padding-left: 60px;
+    height: 750px;
+    width: 100%;
+   
+}
+.surpris{
+    padding-top: 10px;
+    width: 100%;
+    height: 280px;
+    background: rgb(255, 255, 255);
+   
+}
+.first{
+    height: 170px;
+    width: 50%;
+    float: left;
+    
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+
+}
+.second{
+    height: 170px;
+    width: 50%;
+    float: left;
+   
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+
+
+}
+.get-free{
+    width: 100%;
+    height: 80px;
+    background: rgb(255, 255, 255);
+    align-items: center;
+}
+.gtf{
+    width: 400px;
+    height: 68px;
+    background: red;
+    margin-left: 500px;
+   text-align: center;
+   padding-top: 2px;
+   color: #fff;
+}
